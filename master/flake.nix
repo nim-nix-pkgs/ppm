@@ -9,7 +9,7 @@
   
   inputs.src-PPM-master.flake = false;
   inputs.src-PPM-master.owner = "LemonHX";
-  inputs.src-PPM-master.ref   = "refs/heads/master";
+  inputs.src-PPM-master.ref   = "master";
   inputs.src-PPM-master.repo  = "PPM-Nim";
   inputs.src-PPM-master.type  = "github";
   
