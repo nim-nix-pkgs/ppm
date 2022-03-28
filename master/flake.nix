@@ -11,7 +11,6 @@
   inputs.src-PPM-master.ref   = "refs/heads/master";
   inputs.src-PPM-master.owner = "LemonHX";
   inputs.src-PPM-master.repo  = "PPM-Nim";
-  inputs.src-PPM-master.dir   = "";
   inputs.src-PPM-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
